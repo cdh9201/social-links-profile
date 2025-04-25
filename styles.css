@@ -29,7 +29,7 @@ body {
 main {
     background-color: var(--grey-800);
     text-align: center;
-    width: 22rem;
+    width: 24rem;
     padding: 2rem;
     border-radius: 0.8rem;
 }
@@ -67,6 +67,7 @@ a {
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
     background-color: var(--grey-700);
+    font-size: 1rem;
 }
 a:hover {
     background-color: var(--green);
